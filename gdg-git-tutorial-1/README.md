@@ -19,3 +19,12 @@ Git? GitHub? 傻傻分不清楚? 想要嘗試軟體開發，使用 Git 做版本
 - 拿取 GitHub API Token，就像你的專屬鑰匙, [Link](https://github.com/settings/tokens)
 
 > 以上注意事項一定要在課程開始前準備好哦！我 18:00 就會在現場，有問題的人可提早到現場問問題
+
+## 📝 Outline
+- 踏入 Git 的第一步
+- 關於「多人開發專案」
+- Git 與版本控制的基本觀念
+- 用 Git 指令上傳你的成果吧
+- GitHub: 全球工程師開源平台
+- 用 GitHub 貢獻你的成果吧
+- 結語
