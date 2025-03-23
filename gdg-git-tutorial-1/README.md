@@ -1,7 +1,7 @@
 # GDG Lecture - Git 指令與觀念(一)
 
 - Attendees: ??
-- Date: 2025/03/26, 19:00 - 20:30
+- Date: 2025/04/01, 19:00 - 20:30
 - Location: [NTNU CSIE B1 Lecture Hall](https://maps.app.goo.gl/WMuARzzb13DFezyMA)
 
 > Git 系列第一堂課程: 觀念介紹與最基本指令操作  
