@@ -1,6 +1,6 @@
 # Assignment - Taiko Music Generator
 
-- Attendees: 142 students
+- Attendees: 99 students
 - Date: 2024/02 - 2024/06
 - Website: [Neokent](https://sites.google.com/gapps.ntnu.edu.tw/neokent/teaching/past-courses/2024spring-computer-programming-ii?authuser=0)
 
