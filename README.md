@@ -3,7 +3,7 @@
 ### [GDG Lecture - Git 指令與觀念(二)](./NTNU-GDG/git-tutorial-2)
 - Attendees: ??
 - Date: 2025/04/15, 19:00 - 20:30
-- Location: [NTNU CSIE B1 Lecture Hall](https://maps.app.goo.gl/WMuARzzb13DFezyMA)
+- Location: [NTNU CSIE B1 Meeting Room](https://maps.app.goo.gl/WMuARzzb13DFezyMA)
 
 ### [GDG Lecture - Git 指令與觀念(一)](./NTNU-GDG/git-tutorial-1)
 - Attendees: 8
