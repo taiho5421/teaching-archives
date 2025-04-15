@@ -9,6 +9,11 @@ def add(x, y):
 #   '/': divide
 # ============================================
 
+def subtract(x, y):
+    return x - y
+
 operators = {
-    '+': add
+    '+': add,
+    '-': subtract
+  
 }
