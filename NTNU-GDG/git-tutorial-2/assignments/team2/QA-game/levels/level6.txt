@@ -1,0 +1,2 @@
+Question: 請問電腦中的RAM是指什麼？(英文全名，單字字首大寫)
+Answer: Random Access Memory
