@@ -1,0 +1,2 @@
+Question: 請問台灣的首都是哪裡？(英文回答，字首大寫)
+Answer: Taipei
