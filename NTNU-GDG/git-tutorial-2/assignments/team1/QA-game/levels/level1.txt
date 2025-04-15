@@ -1,0 +1,2 @@
+Question: 請問2 + 2 等於幾？
+Answer: 4
